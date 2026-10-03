@@ -187,7 +187,7 @@ DIVIDE(
 ## 📸 Dashboard Preview
 
 ### Overview
-![Airbnb Dashboard - Overview]https://github.com/studyshifora-eng/Airbnb-Project/blob/main/Snapshot%20of%20the%20dashboard.png
+![Airbnb Dashboard - Overview](https://github.com/studyshifora-eng/Airbnb-Project/blob/main/Snapshot%20of%20the%20dashboard.png)
 
 ### Ratings
 ![Airbnb Dashboard - Ratings]
