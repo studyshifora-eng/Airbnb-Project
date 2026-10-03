@@ -1,4 +1,4 @@
-# 🌍 Global Airbnb Performance Dashboard
+#  Global Airbnb Performance Dashboard
 
 A Power BI dashboard built to analyze Airbnb's listing growth, market distribution, pricing, ratings, and guest review behavior across major global cities.
 
@@ -6,7 +6,7 @@ The goal of this project was not just to create visuals, but to understand what 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Airbnb operates across different cities, property types and customer segments, making it interesting to look at the platform from both a marketplace and customer-experience perspective.
 
@@ -24,7 +24,7 @@ The final output is a 3-page interactive dashboard.
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Power BI** – Data visualization and dashboard development
 - **DAX** – Measures and calculations
@@ -33,7 +33,7 @@ The final output is a 3-page interactive dashboard.
 
 ---
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 
 ### 1. Overview — New Listings
 
@@ -105,7 +105,7 @@ The trust analysis showed that **66.9% of users in the analyzed data are identit
 
 ---
 
-## 💡 Some Interesting Insights
+##  Some Interesting Insights
 
 ### 1. Airbnb's growth changed after 2015
 
@@ -129,7 +129,7 @@ Review activity changes differently across destinations throughout the year, sug
 
 ---
 
-## 📈 Dashboard Design
+##  Dashboard Design
 
 I kept the dashboard relatively simple and focused on making the main patterns easy to understand.
 
@@ -146,7 +146,7 @@ The dashboard uses Airbnb's visual identity as inspiration, with a simple white,
 
 ---
 
-## 🧮 Some DAX Measures
+##  Some DAX Measures
 
 A few of the measures used in the project include:
 
@@ -181,3 +181,14 @@ DIVIDE(
     [Total Reviewers],
     0
 )
+
+## 📸 Dashboard Preview
+
+### Overview
+![Airbnb Dashboard - Overview]
+
+### Ratings
+![Airbnb Dashboard - Ratings](screenshots/ratings.png)
+
+### Reviews
+![Airbnb Dashboard - Reviews](screenshots/reviews.png)
