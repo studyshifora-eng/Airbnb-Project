@@ -182,6 +182,8 @@ DIVIDE(
     0
 )
 
+```
+
 ## 📸 Dashboard Preview
 
 ### Overview
