@@ -190,7 +190,7 @@ DIVIDE(
 ![Airbnb Dashboard - Overview](https://github.com/studyshifora-eng/Airbnb-Project/blob/main/Snapshot%20of%20the%20dashboard.png)
 
 ### Ratings
-![Airbnb Dashboard - Ratings]
+![Airbnb Dashboard - Ratings](https://github.com/studyshifora-eng/Airbnb-Project/blob/main/Snapshot%20of%20the%20dashboard%20(2).png)
 
 ### Reviews
 ![Airbnb Dashboard - Reviews](screenshots/reviews.png)
